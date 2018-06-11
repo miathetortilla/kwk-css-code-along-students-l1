@@ -1,1 +1,17 @@
 /* add CSS class and element and selectors here */
+body {
+  background-color:lightpink;
+  color:green;
+  text-shadow: 2px 2px grey;
+  text-align: center;
+}
+
+h3 {
+  font-size: 300%;
+  color: white;
+  text-shadow: 2px 2px grey;
+}
+
+div {
+  border: dotted;
+}
